@@ -1,0 +1,21 @@
+
+rm(list=ls())
+library(devtools)
+library(roxygen2)
+setwd("C:/Users/jisung/OneDrive - 연세대학교 (Yonsei University)/문서/testing")
+getwd()
+
+
+
+
+roxygenize()
+
+check()
+build()
+
+
+
+
+
+
+

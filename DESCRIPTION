@@ -1,0 +1,17 @@
+Package: testing
+Type: Package
+Title: testing_for_upload
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    optparse
+LazyData: true
+RoxygenNote: 7.3.1
+Config/testthat/edition: 3
+ByteCompile: true
+
